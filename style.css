@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+    
+}
+#clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #00d9ff;
+    font-size: 30px;
+    font-family: Orbitron;
+    letter-spacing: 5px;
+  }
